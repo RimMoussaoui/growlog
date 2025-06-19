@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # dependencies
@@ -36,3 +37,21 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 android/
+=======
+# OSX
+#
+.DS_Store
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+.cxx/
+
+# Bundle artifacts
+*.jsbundle
+>>>>>>> a54c9a4f0210ad2e3b25105d6d6cc7b9d4a1c3e0
